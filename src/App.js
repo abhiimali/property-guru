@@ -7,6 +7,9 @@ const App = () => {
 
     <h4>  Designed And Developed By Abhii Mali </h4>
 
+       <div >
+         We Will Live Soon 
+       </div>
     </>
   )
 }
